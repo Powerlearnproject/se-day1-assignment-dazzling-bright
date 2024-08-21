@@ -6,15 +6,16 @@
 
 ### Part 1: Introduction to Software Engineering
 
-1. **Explain what software engineering is and discuss its importance in the technology industry.**
+1. **Which of the following best describes software engineering?**
 
-   - Software engineering is the process of designing, developing, testing, and maintaining software using systematic methods and principles. It applies engineering techniques to ensure software is reliable, efficient, and scalable.
+The process of designing, developing, and maintaining software.
+Software engineering is the process of designing, developing, testing, and maintaining software using systematic methods and principles. It applies engineering techniques to ensure software is reliable, efficient, and scalable.
 
 2. **Identify and describe at least three key milestones in the evolution of software engineering.**
 
    - **1950s – Early Programming Languages**:  
      The development of languages like FORTRAN and COBOL marked the beginning of more accessible programming, allowing engineers to write more complex software.
-  
+
    - **1968 – NATO Software Engineering Conference**:  
      This conference highlighted the "software crisis," where demand for software outpaced developers' ability to produce it, establishing software engineering as a formal discipline.
 
@@ -139,9 +140,10 @@
    - **Improved Prompt**:  
      _"Provide an overview of the causes and impact of the American Civil War."_
 
-     **Why It's Better**:  
-     - **Specificity**: The improved prompt clearly defines the topic and focuses on causes and impact.  
-     - **Conciseness**: It communicates the request directly without unnecessary words.  
+     **Why It's Better**:
+
+     - **Specificity**: The improved prompt clearly defines the topic and focuses on causes and impact.
+     - **Conciseness**: It communicates the request directly without unnecessary words.
      - **Clarity**: The AI can generate a more focused and relevant response.
 
      The improved prompt is more effective because it narrows the scope, giving the AI a clear direction to follow, which results in a more informative answer.
